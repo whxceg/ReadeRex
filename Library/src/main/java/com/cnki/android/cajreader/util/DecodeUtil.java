@@ -7,13 +7,10 @@ package com.cnki.android.cajreader.util;
 
 import android.util.Log;
 
-import androidx.annotation.Keep;
-
 import com.cnki.android.cajreader.ReaderExLib;
 
 import java.io.UnsupportedEncodingException;
 
-@Keep
 public class DecodeUtil {
     public DecodeUtil() {
     }
